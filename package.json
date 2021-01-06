@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@tinymce/tinymce-vue": "^3.0.1",
-    "axios": "0.18.1",
+    "axios": "0.21.1",
     "element-ui": "2.7.2",
     "highlight.js": "^9.16.2",
     "js-cookie": "2.2.0",
